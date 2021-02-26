@@ -1,8 +1,0 @@
-com/tata/WorkerApp.java
- com.tata.WorkerApp
-com/tata/Salaried.java
- com.tata.Salaried
-com/tata/Worker.java
- com.tata.Worker
-com/tata/Daily.java
- com.tata.Daily
